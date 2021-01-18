@@ -4,15 +4,17 @@ C'était un lundi matin... Mehmet se rendait aux bureaux de BeCentral comme à l
 
 ![CORPSE](https://github.com/mugurlu0/exquisite-corpse-MU/blob/DEVELOPMENT/812q4hcZ5gL.jpg)
 
-SITUATION
+## SITUATION
 
+"Il était sur son ordinateur en train de vérifier les numéros de la loterie et tout à coup, il s'est évanoui. Ça devait être trop d'émotions! Regardez son écran ! " En effet, son corps n'avait pas supporté le bonheur. Ce cadavre était le propriétaire du billet gagnant d'Euromillions.
 
-"Il était sur son ordinateur en train de vérifier les numéros de loterie et tout à coup il s'est évanoui. Ça devait être trop d'impression! Regardez son écran." En effet, son corps n'avait pas supporté le bonheur. Ce cadavre était le propriétaire du billet gagnant d'Euromillions.
+## PROBLEME
 
+Il a pensé immediatement à récuperer le billet et réclamer l'argent.
+Malheureusement, il ne l'a pas le retrouvé tout suite et une autre personne est entrée dans la salle.
+Cette personne commença a dire que c'était mal et qu'ils devaient avant tout, appeler les pompiers.
 
-PROBLEME
-Il a pensé immediatement a récuperer le billet et réclamer l'argent.
-Malheureusement, il a pas le trouvé tout suite et un autre personne est entré dans la salle. Cette personne a commancait a le dire que c'était malicieux et qu'ils doivent avant tout, appeler les pompiers.
+## RESOLUTION
 
-## RESOLUTION 
-donc mehmet n'ayant as le choix il appela les pompiers mais en meme temps il eut le temps de récuperer le ticket gagnant et comme personne n'était là ,mehmet s'en allant tranquillement et devient l'homme le plus riche de chez becode.
+Donc Mehmet n'ayant pas le choix, il appela les pompiers, mais en même temps, il eut le temps de récuperer le ticket gagnant.
+Et comme personne n'était là , Mehmet s'en alla tranquillement et devint l'homme le plus riche de à BeCode.
