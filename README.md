@@ -14,3 +14,5 @@ PROBLEME
 Il a pensé immediatement a récuperer le billet et réclamer l'argent.
 Malheureusement, il a pas le trouvé tout suite et un autre personne est entré dans la salle. Cette personne a commancait a le dire que c'était malicieux et qu'ils doivent avant tout, appeler les pompiers.
 
+## RESOLUTION 
+donc mehmet n'ayant as le choix il appela les pompiers mais en meme temps il eut le temps de récuperer le ticket gagnant et comme personne n'était là ,mehmet s'en allant tranquillement et devient l'homme le plus riche de chez becode.
