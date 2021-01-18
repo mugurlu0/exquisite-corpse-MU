@@ -1,1 +1,1 @@
-# exquisite-corpse-MU
+Un cadavre à BeCode
