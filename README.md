@@ -9,3 +9,8 @@ SITUATION
 
 "Il était sur son ordinateur en train de vérifier les numéros de loterie et tout à coup il s'est évanoui. Ça devait être trop d'impression! Regardez son écran." En effet, son corps n'avait pas supporté le bonheur. Ce cadavre était le propriétaire du billet gagnant d'Euromillions.
 
+
+PROBLEME
+Il a pensé immediatement a récuperer le billet et réclamer l'argent.
+Malheureusement, il a pas le trouvé tout suite et un autre personne est entré dans la salle. Cette personne a commancait a le dire que c'était malicieux et qu'ils doivent avant tout, appeler les pompiers.
+
